@@ -11,7 +11,9 @@ Planned extensions: a neural network surrogate and maybe an uncertainty and sens
 
 
 # phase uno
-beam-chain FEA in progress
+beam-chain FEA in progress, 
+>>>> function that returns the stiffness matrix for one beam then test with a simple case,  then compare to deflection equals P times L cubed, divided by 3 times E times I.
+
 Compare a flexible (before fusion) spine chain with a fused one,  fused levels are modeled as parallel bone and rod elements. then check how load splits between the two
 
 
