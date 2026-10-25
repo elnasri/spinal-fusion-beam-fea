@@ -1,6 +1,7 @@
 # spinal-fusion-beam-fea
 
-A 2D beam-chain FEA of a fused spine, with a neural network surrogate and Monte Carlo uncertainty analysis of the bone stiffness
+A 2D beam-chain finite element model of a fused spine, built in Python. 
+Planned extensions: a neural network surrogate and maybe an uncertainty and sensitivity analysis of the stiffness.
 
 
 
@@ -9,7 +10,9 @@ A 2D beam-chain FEA of a fused spine, with a neural network surrogate and Monte 
 
 
 
-phase uno
+# phase uno
+beam-chain FEA in progress
+Compare a flexible (before fusion) spine chain with a fused one,  fused levels are modeled as parallel bone and rod elements. then check how load splits between the two
 
 
 2nd phase
